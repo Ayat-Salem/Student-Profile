@@ -2,28 +2,25 @@
 
 7/10/2021
 
-Ayat Bu-Suhail  
-Cohort < 1/2 >
+Ayat Salem Bu-Suhail  
+Cohort 1
 
 
 ## Student Career Goal Statement 
 
-   __Student_TODO:__ 
+
  
-  < What is your career goal? (Think 5 year's from now) >  
-  < Which financial services or products would you like to work with? >  
-  < Which technologies do you want to contrbute to? >  
-  < Which problems or oppertunities do you want to focus on? >  
+  After I am done with this course I hope to work in the technical department while I can do what I learned in virtually also I can develop my skills, I hope to work in banks, startup companies or even be as an instructor. also want to be an investor I can deal with stocks and Bitcoins while i hope to learn them as soon as possible. 
 
 ### Student mini-CV:
 
   __Student_TODO:__
 
   - Degrees Completed:    
-        < eg: BSc Computer Science '14, MSc Computer Engineering 15', PhD Finance '21 >
+        BSc Computer Science.
   - Top 3 Technical skills:    
-        < eg: Excel, Python, Java, SQL, AWS, VBA, PowerPoint, Adobe Illustrator, etc. >
+        Microsoft Office programs, Visual Studio, and web development.
   - Top 3 Personal strengths:   
-       < eg: great team player, personable, professional, natural leader, reliable, hard worker, amazing sense of humor, etc. >
+       Learnable, personable, professional, hard worker, group worker.
   - Top 3 Interests in Fintech:    
-       < eg: Algorthmic Trading, Blockchain, Smart Contracts, RegTech (regulations) , InsureTech (insurance), payments & remittence, etc >
+        Smart Contracts, Stocks, Bitcoins, insurance, payments & remittence. 
