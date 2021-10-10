@@ -14,7 +14,7 @@ Cohort 1
 
 ### Student mini-CV:
 
-  __Student_TODO:__
+
 
   - Degrees Completed:    
         BSc Computer Science.
